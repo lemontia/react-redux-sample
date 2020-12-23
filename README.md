@@ -1,10 +1,9 @@
 # react + nextjs + redux + typescript 설정하기(redux toolkit 사용)
 
-패키지 설치
+pakcage.json 파일내 설정된 패키지 내용 다운로드
 ~~~
-npx create-next-app --example with-typescript test-app
-npm i redux react-redux immer @types/react-redux typesafe-actions
-~~~
+npm instaill
+~~~ 
 
 실행
 ~~~
